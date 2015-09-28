@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item >All</item>
+        <item >Apparel</item>
+        <item >Jewelry</item>
+        <item >Footwear</item>
+         <item >Other</item>
+	    </string-array>
+
+        <string-array name="category2">
+        <item >Apparel</item>
+        <item >Jewelry</item>
+        <item >Footwear</item>
+        <item >Other</item>
+        
+	    </string-array>
+    
+        <string-array name="typeClothes">
+        <item >Shirt</item>
+        <item >Bottom</item>
+        <item >TShirt</item>
+        <item >Dress</item>      
+        <item >Skirt</item>
+	    </string-array>
+        <string-array name="stypeClothes">
+        <item >Casual</item>
+        <item >Formal</item>
+        <item >Party</item>
+	    </string-array>
+        
+        
+        <string-array name="typeJewellery">
+        <item >Ring</item>
+        <item >Necklace</item>
+        <item >Bangles</item>
+        <item >Earings</item>      
+        <item >Other</item>
+	    </string-array>
+	    
+                <string-array name="typeOther">
+        <item >Caps</item>
+        <item >Shades</item>
+        <item >Belts</item>
+        <item >Earings</item>      
+        <item >Watch</item>
+                <item >Other</item>
+        
+	    </string-array>
+        
+	    
+        <string-array name="stypeJewelley">
+        <item >Gold</item>
+        <item >Silver</item>
+        <item >Diamond</item>
+        <item >Platinium</item>      
+	    </string-array>
+        
+        
+         <string-array name="typeFootwear">
+        <item >Slipper</item>
+        <item >Flats</item>
+        <item >Heels</item>
+        <item >Shoes</item>      
+        <item >Other</item>
+	    </string-array>
+	    
+                  <string-array name="stypeFootwear">
+        <item >Party</item>
+        <item >Routine</item>
+        <item >Formal</item>
+        <item >Casual</item>      
+        <item >Sport</item>
+	    </string-array>
+	    
+                                  <string-array name="stypeOther">
+        <item >Party</item>
+        <item >Routine</item>
+        <item >Formal</item>
+        <item >Casual</item>      
+        <item >Sport</item>
+	    </string-array>
+                  
+         
+        
+</resources>
